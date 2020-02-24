@@ -1,3 +1,4 @@
+# Replace each SigmoidalPigeon with CosinePigeon in this file to use the cosine similarity version of PIO
 from pigons import CosinePigeon
 from pigons import SigmoidalPigeon
 from problem import np, acc__f_score
